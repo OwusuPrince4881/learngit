@@ -4,3 +4,6 @@ print("hello world")
 
 name = input("whats your name")
 print(f"Nice to meet you {name}")
+
+age = input("what is your age")
+print(f"I am {age} years old")
