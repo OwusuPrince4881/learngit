@@ -10,3 +10,5 @@ print(f"I am {age} years old")
 
 location = input("where are you from")
 print(f"I am from {location}")
+
+print("nice to meet you")
